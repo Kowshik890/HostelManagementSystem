@@ -1,5 +1,5 @@
 # Hostel Management System
-### This project is about Hostel Management System which is developed as small project in **Object Oriented Programming (C++)** course in BSc.
+### This project is about Hostel Management System which is developed by Object Oriented Programming concept using C++ course in Bachelor program.
 The functionalities of this project are:
 1. Boarder Entry
 1. Show All Information
